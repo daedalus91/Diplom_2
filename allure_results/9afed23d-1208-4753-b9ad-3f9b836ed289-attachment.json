@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "https://stellarburgers.education-services.ru/api/orders",
+  "headers": {},
+  "json": {
+    "ingredients": [
+      "000000000000000000000000"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "https://stellarburgers.education-services.ru/api/auth/register",
+  "headers": {},
+  "json": {
+    "email": "test_user_e65381dbcbe3@example.com",
+    "password": "***",
+    "name": "User e65381"
+  }
+}
