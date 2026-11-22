@@ -1,0 +1,12 @@
+{
+  "method": "POST",
+  "url": "https://stellarburgers.education-services.ru/api/orders",
+  "headers": {
+    "Authorization": "***"
+  },
+  "json": {
+    "ingredients": [
+      "invalid_ingredient_hash_123"
+    ]
+  }
+}
